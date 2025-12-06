@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello!!
 
+Just figuring out how to use this.
 <!--
 **kait-t/kait-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
